@@ -1,0 +1,74 @@
+     基本語法:<!DOCTYPE html>
+<html lang="tw">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    
+關閉標籤:</body>
+關閉標籤:</html>
+
+文字:<h1>-<h6>
+<p>
+<ol>
+
+文字[超連結]:<a>
+
+範例:<a href=”連結”>文字</a>
+格式:<a>+空格+屬性+等於+引號+[連結]+引號+角括號+[文字]+</a>
+
+註解[標記]:<！--標記內容-->
+
+引入;CSS/JavaScript
+程式碼[CSS]:<link rel="stylesheet" type="text/css" href="[檔名］
+.css">
+
+程式碼[JavaScript]:<script src="[檔名].js"></script>
+按鈕新增:<button onclick="window.location.href='https://www.example.com'">点击这里跳转到示例网站</button>
+提示文字框製作:<input type="text" id="tooltip" title="[提示文字]">
+
+
+css代碼庫[.CSS]
+基本代碼:p {
+    color: red;
+}
+
+註解:/*[註解內容]*/
+
+調整Html代碼內文字尺寸:font-size:尺寸[px]
+
+調整Html代碼內文字位置:text-align:
+左對齊:left
+置中文本之代碼:center
+右對齊:right
+
+副檔名
+副檔名   :css
+負責內容:網頁外觀 排版
+
+
+JavaScript代碼庫
+基本代碼:// JavaScript示例代码
+// 这段代码会在网页加载完成后弹出一个对话框
+window.onload = function() {
+    alert("欢迎使用JavaScript！");
+};
+其他:請點擊 謝謝
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
